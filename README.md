@@ -58,20 +58,9 @@
 
 ###
 
-<img align="left" height="350" src="https://cdn.discordapp.com/attachments/1159253688540479498/1210627395133116506/ethan-bortnick-live-berlin-scaled-2926002991.jpg?ex=65eb3f9f&is=65d8ca9f&hm=f91cd01954e023d94771fb47ec9b5d63e06076e94777eba9792171e4428f889f&"  />
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parrince&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parrince&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false" height="150" alt="languages graph"  />
+  <img height="350" src="https://cdn.discordapp.com/attachments/1159253688540479498/1210627395133116506/ethan-bortnick-live-berlin-scaled-2926002991.jpg?ex=65eb3f9f&is=65d8ca9f&hm=f91cd01954e023d94771fb47ec9b5d63e06076e94777eba9792171e4428f889f&"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/parrince/parrince/output/snake.svg" alt="Snake animation" />
 
 ###
 
